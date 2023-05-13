@@ -27,4 +27,4 @@ jobs:
         apiToken: ${{ secrets.CF_API_TOKEN }}
         accountId: ${{ secrets.CF_ACCOUNT_ID }}
         workingDirectory: dist
-        command: pages publish --project-name=shaunphd --branch=${BRANCH_NAME} .
+        command: pages publish --project-name=shaun-phd --branch=${BRANCH_NAME} .
