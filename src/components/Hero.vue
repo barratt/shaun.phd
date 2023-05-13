@@ -7,7 +7,7 @@
             </div>
             <div class="col-lg-6">
                 <h1 class="display-5 fw-bold lh-1 mb-3">Shaun Barratt</h1>
-                    <p class="lead">I'm a...
+                    <p class="display-6 fs-2">I'm a...
                     <Transition mode="out-in">
                         <span :key="roleIndex">
                             {{ roles[roleIndex]}}!
