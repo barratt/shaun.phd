@@ -1,12 +1,11 @@
 <template>
-    <div class="">
-        <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
-            <div class="col-10 col-sm-8 col-lg-6">
-                <img src="@/assets/portrait.jpg" class="d-block mx-lg-auto img-fluid rounded shadow" alt="Bootstrap Themes" width="700"
-                    height="500" loading="lazy">
+
+        <div class="row flex-lg-row-reverse align-items-center g-5 py-md-5">
+            <div class="col-12 col-md-6 col-lg-6 order-2 order-md-1">
+                <img src="@/assets/portrait.jpg" class="d-block mx-lg-auto img-fluid rounded shadow" alt="Bootstrap Themes" height="500" loading="lazy">
             </div>
-            <div class="col-lg-6">
-                <h1 class="display-5 fw-bold lh-1 mb-3">Shaun Barratt</h1>
+            <div class="col-lg-6 order-1 order-md-2">
+                <h1 class="display-5 fw-bold mb-3">Shaun Barratt</h1>
                     <p class="display-6 fs-2">I'm a...
                     <Transition mode="out-in">
                         <span :key="roleIndex">
@@ -20,7 +19,6 @@
                 <!-- </div> -->
             </div>
         </div>
-</div>
 </template>
 
 <script>
