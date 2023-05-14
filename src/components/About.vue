@@ -6,7 +6,7 @@
                 <div class="text-secondary">
                     I'm a Ph.D student at <a href="https://www.shu.ac.uk/" target="shu">Sheffield Hallam University</a> with the <a href="https://serg.team" target="serg">Sports Engineering Research Group</a>, researching the use of machine learning to improve the
                     performance of elite level athletes. I'm also a master of software engineering, working on a variety of projects. I've been a full stack developer for over 10 years, and have worked on and led teams in a variety of projects, from small websites to large scale
-                    ecommerse platforms and referencing platforms serving over 500k requests per day
+                    e-commerce platforms and referencing software serving over 500k requests per day
                 </div>
             </div>
             <div class="col mt-3 mt-md-0">
