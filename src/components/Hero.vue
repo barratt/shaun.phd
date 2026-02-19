@@ -29,14 +29,13 @@ export default {
         return {
             roleIndex: 0,
             roles: [
-                "Doctoral Student",
+                "Doctor",
                 "Software Engineer",
                 "Dad",
                 "Researcher",
                 "Electronics Hobbyist",
-                "3D Printing Enthusiast",
                 "Lecturer",
-                "Gamer",
+                "Husband",
             ]
         }
     },
